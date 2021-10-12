@@ -1,9 +1,17 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# hi!
 
-I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+## Profile
+Qualified IT professional, working in the planning and implementation of architectures
+for web and mobile systems successfully and participating in all phases of the project,
+from assessment and implementation to performance tests.
+## Certifications
+- [Certified Kubernetes Administrator](https://www.credly.com/badges/9750ab39-ae3e-4944-ab5d-f6a10d71ebe6?source=linked_in_profile)
+- [Certified Kubernetes Application Developer](https://www.credly.com/badges/fb785e9b-8c69-4db8-971c-1a18fa93f432?source=linked_in_profile)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e30c0d71-5b58-4ef9-858e-bd76b77d240c)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/92178f13-305b-411f-bf32-3f2cafe7e30b)
 
+## Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-rafaelperoco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelperoco/)](https://www.linkedin.com/in/rafaelperoco/)
-[![Medium Badge](https://img.shields.io/badge/-@rafaelperoco-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rafaelperoco/)](https://medium.com/@rafaelperoco)
 [![Gmail Badge](https://img.shields.io/badge/-rafaelperoco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 ## ⚡ Technologies
@@ -13,16 +21,8 @@ I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
@@ -37,7 +37,12 @@ I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+## Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rafaelperoco&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelperoco&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafaelperoco.rafaelperoco)
