@@ -126,6 +126,3 @@ HCL                      4 repos             ███░░░░░░░░�
 
  Last Updated on 12/10/2021
 <!--END_SECTION:waka-->
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafaelperoco.rafaelperoco)
