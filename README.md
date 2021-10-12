@@ -36,4 +36,4 @@ from assessment and implementation to performance tests.
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ## Stats
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelperoco&theme=radical&hide_title=true&range=last_30_days)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelperoco&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
