@@ -1,5 +1,3 @@
-# hi!
-
 ## Profile
 Qualified IT professional, working in the planning and implementation of architectures
 for web and mobile systems successfully and participating in all phases of the project,
