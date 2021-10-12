@@ -12,7 +12,7 @@ from assessment and implementation to performance tests.
 
 ## Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-rafaelperoco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelperoco/)](https://www.linkedin.com/in/rafaelperoco/)
-[![Gmail Badge](https://img.shields.io/badge/-rafaelperoco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rafaelperoco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelperoco@gmail.com)](mailto:rafaelperoco@gmail.com)
 
 ## ⚡ Technologies
 
