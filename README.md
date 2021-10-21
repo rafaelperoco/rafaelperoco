@@ -35,5 +35,5 @@ from assessment and implementation to performance tests.
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-## Stats
+## Last week stats
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=radical&hide_title=true&username=rafaelperoco)](https://github.com/anuraghazra/github-readme-stats)
