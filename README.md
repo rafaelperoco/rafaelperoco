@@ -3,10 +3,11 @@ Qualified IT professional, working in the planning and implementation of archite
 for web and mobile systems successfully and participating in all phases of the project,
 from assessment and implementation to performance tests.
 ## Certifications
-- [Certified Kubernetes Administrator](https://www.credly.com/badges/9750ab39-ae3e-4944-ab5d-f6a10d71ebe6?source=linked_in_profile)
-- [Certified Kubernetes Application Developer](https://www.credly.com/badges/fb785e9b-8c69-4db8-971c-1a18fa93f432?source=linked_in_profile)
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e30c0d71-5b58-4ef9-858e-bd76b77d240c)
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/92178f13-305b-411f-bf32-3f2cafe7e30b)
+- [Certified Kubernetes Administrator](https://www.credly.com/badges/9750ab39-ae3e-4944-ab5d-f6a10d71ebe6/public_url)
+- [Certified Kubernetes Application Developer](https://www.credly.com/badges/fb785e9b-8c69-4db8-971c-1a18fa93f432/public_url)
+- [Certified Kubernetes Security Specialist](https://www.credly.com/badges/85de753a-cefd-424b-9cf1-9489403dc9c8/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e30c0d71-5b58-4ef9-858e-bd76b77d240c/public_url)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/92178f13-305b-411f-bf32-3f2cafe7e30b/public_url)
 
 ## Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-rafaelperoco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelperoco/)](https://www.linkedin.com/in/rafaelperoco/)
