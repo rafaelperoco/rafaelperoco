@@ -9,7 +9,7 @@ Active contributor to open-source projects like kind and Terraform modules, enha
 Holder of leading certifications: Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD), Certified Kubernetes Security Specialist (CKS), AWS Certified Solutions Architect – Associate, AWS Certified Cloud Practitioner and GCP Professional Cloud Architect.
 
 ## Certifications
-[Credly](https://www.credly.com/users/rafael-peroco.70c39f30)
+[Credly](https://www.credly.com/users/rafaelperoco)
 
 ## Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-rafaelperoco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelperoco/)](https://www.linkedin.com/in/rafaelperoco/)
